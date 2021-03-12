@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Knight
+comment1.params=
+comment1.target=Knight()
+comment2.params=chessBoard
+comment2.target=void\ resetKnight(Board)
+comment3.params=chessBoard
+comment3.target=java.lang.Boolean\ move(Board)
+comment3.text=\r\n\ \ \ \ public\ void\ replayPath()\ {\r\n\ \ \ \ \ \ \ \ board.resetSquares();\r\n\ \ \ \ \ \ \ \ for\ (int\ i\ \=\ 0;\ i\ <\ 64;\ i++)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ int\ px\ \=\ path[i].x;\r\n\ \ \ \ \ \ \ \ \ \ \ \ int\ py\ \=\ path[i].y;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n
+comment4.params=c\ g
+comment4.target=void\ draw(java.awt.Container,\ java.awt.Graphics)
+numComments=5

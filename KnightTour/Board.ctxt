@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment2.params=
+comment2.target=void\ resetSquares()
+comment3.params=
+comment3.target=void\ setInitSquare()
+comment4.params=x\ y
+comment4.target=java.lang.Boolean\ isTaken(int,\ int)
+comment5.params=x\ y
+comment5.target=java.lang.Boolean\ isOnBoard(int,\ int)
+comment6.params=
+comment6.target=java.lang.Boolean\ isDone()
+comment7.params=c\ g
+comment7.target=void\ draw(java.awt.Container,\ java.awt.Graphics)
+numComments=8
